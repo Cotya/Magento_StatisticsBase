@@ -1,0 +1,13 @@
+{
+    "name": "cotya/magento_statistics-base",
+    "description": "a base module targeted at devs to implement tracking of various statistics over time",
+    "license": "MIT",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Flyingmana",
+            "email": "flyingmana@googlemail.com"
+        }
+    ],
+    "require": {}
+}
