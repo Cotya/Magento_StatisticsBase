@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cotya_StatisticsBase>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Cotya_StatisticsBase>
+    </modules>
+</config>
